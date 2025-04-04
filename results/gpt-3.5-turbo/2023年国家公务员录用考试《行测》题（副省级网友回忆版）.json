@@ -45,29 +45,29 @@
     134,
     135
   ],
-  "overall_accuracy": 0.391304347826087,
+  "overall_accuracy": 0.6521739130434783,
   "total_processed_questions": 92,
-  "correct_answers": 36,
+  "correct_answers": 60,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
-      "accuracy": 0.2,
-      "correct": 4,
+      "accuracy": 0.7,
+      "correct": 14,
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.4,
-      "correct": 12,
+      "accuracy": 0.5666666666666667,
+      "correct": 17,
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.21428571428571427,
-      "correct": 3,
+      "accuracy": 0.42857142857142855,
+      "correct": 6,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.6071428571428571,
-      "correct": 17,
+      "accuracy": 0.8214285714285714,
+      "correct": 23,
       "total": 28
     }
   },
@@ -111,8 +111,8 @@
         "D": "②③④"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "4",
@@ -125,7 +125,7 @@
         "D": "分配制度是促进共同富裕的基础性制度"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "ABCD",
       "is_correct": false
     },
     {
@@ -139,8 +139,8 @@
         "D": "5项"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "6",
@@ -153,8 +153,8 @@
         "D": "党徽党旗制作、使用、管理必须坚持统一标准、统一规范"
       },
       "true_answer": "A",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "7",
@@ -167,8 +167,8 @@
         "D": "水土保持区以内蒙古高原南缘、宁夏中部等为主"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "8",
@@ -181,8 +181,8 @@
         "D": "乡镇人民政府应设立法律顾问和公职律师，根据需要在村民委员会建立公共法律服务工作室"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "9",
@@ -251,7 +251,7 @@
         "D": "七月 天问 敕勒歌"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -265,8 +265,8 @@
         "D": "安徽凤阳明中都遗址与明太祖朱元璋有关"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "15",
@@ -293,8 +293,8 @@
         "D": "性犹湍水也，决诸东方则东流，决诸西方则西流——《论语》"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "17",
@@ -307,8 +307,8 @@
         "D": "我国铁矿具有储量大、富矿多、贫矿少的特点"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "18",
@@ -321,7 +321,7 @@
         "D": "谷雨前后江浙地区可能会出现“一把青秧趁手青，轻烟漠漠雨冥冥”的现象"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -335,8 +335,8 @@
         "D": "可以通过虫子取食痕迹判断蘑菇是否有毒"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "20",
@@ -349,8 +349,8 @@
         "D": "外地核：主要由熔化了的铁和铬构成，地球的磁场就是这些液态金属围绕内地核流动而形成的"
       },
       "true_answer": "D",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "21",
@@ -377,8 +377,8 @@
         "D": "稳定性"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "23",
@@ -391,7 +391,7 @@
         "D": "迎难而上 惜墨如金"
       },
       "true_answer": "B",
-      "pred_answer": "C",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -419,8 +419,8 @@
         "D": "硕果累累 显著性"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "26",
@@ -433,8 +433,8 @@
         "D": "难以为继 统筹兼顾"
       },
       "true_answer": "B",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "27",
@@ -447,8 +447,8 @@
         "D": "相符 漏洞"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "28",
@@ -475,8 +475,8 @@
         "D": "竭泽而渔 杀鸡取卵"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "30",
@@ -531,7 +531,7 @@
         "D": "自强  一枝独秀  责任感"
       },
       "true_answer": "C",
-      "pred_answer": "D",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -559,8 +559,8 @@
         "D": "壮士断腕 并行不悖 坚决"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "36",
@@ -615,8 +615,8 @@
         "D": "打破形式壁垒是艺术创新的重要手段"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "40",
@@ -713,8 +713,8 @@
         "D": "发展农业保险是保障粮食安全的必选项"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "47",
@@ -769,8 +769,8 @@
         "D": "应正确理解司法资源作为公共产品的有限性"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "61",
@@ -811,8 +811,8 @@
         "D": "4"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "65",
@@ -825,8 +825,8 @@
         "D": "超过45%"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "66",
@@ -839,7 +839,7 @@
         "D": "6"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -853,7 +853,7 @@
         "D": ""
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -881,7 +881,7 @@
         "D": "55"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -895,7 +895,7 @@
         "D": "27"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -909,8 +909,8 @@
         "D": ""
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "72",
@@ -923,7 +923,7 @@
         "D": "12：15"
       },
       "true_answer": "B",
-      "pred_answer": "D",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -951,7 +951,7 @@
         "D": "600"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -965,7 +965,7 @@
         "D": "不到0.6x"
       },
       "true_answer": "A",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1007,7 +1007,7 @@
         "D": "与老司机相比，坐新手司机开的车时，后排座上的乘客主动系安全带的更多"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -1035,8 +1035,8 @@
         "D": "谁是高考状元？这个一年一度的热门话题，今年却在XX省消失了——③"
       },
       "true_answer": "B",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "91",
@@ -1133,8 +1133,8 @@
         "D": "耳提面命：教导"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "100",
@@ -1147,8 +1147,8 @@
         "D": "海事损害：请求赔偿：租赁船只"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "101",
@@ -1175,7 +1175,7 @@
         "D": "头部理疗：腰部理疗∶腿部理疗"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1315,8 +1315,8 @@
         "D": "全球主要经济体正在加紧出台强有力的救市计划，以寻求本国新的经济增长动力"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "113",
@@ -1329,8 +1329,8 @@
         "D": "大马古城位于今岳阳市东南，与《读史方舆纪要》中记载的岳州“府东三十里，相传古麋子国”所记位置大体一致"
       },
       "true_answer": "C",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "114",
@@ -1357,8 +1357,8 @@
         "D": "白未参加跳台滑雪"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     }
   ]
 }

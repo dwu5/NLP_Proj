@@ -45,29 +45,29 @@
     134,
     135
   ],
-  "overall_accuracy": 0.5108695652173914,
+  "overall_accuracy": 0.6630434782608695,
   "total_processed_questions": 92,
-  "correct_answers": 47,
+  "correct_answers": 61,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
-      "accuracy": 0.5,
-      "correct": 10,
+      "accuracy": 0.6,
+      "correct": 12,
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.6333333333333333,
-      "correct": 19,
+      "accuracy": 0.7333333333333333,
+      "correct": 22,
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.3076923076923077,
-      "correct": 4,
+      "accuracy": 0.46153846153846156,
+      "correct": 6,
       "total": 13
     },
     "判断推理": {
-      "accuracy": 0.4827586206896552,
-      "correct": 14,
+      "accuracy": 0.7241379310344828,
+      "correct": 21,
       "total": 29
     }
   },
@@ -83,8 +83,8 @@
         "D": "2"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "2",
@@ -97,8 +97,8 @@
         "D": "②③④"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "3",
@@ -111,8 +111,8 @@
         "D": "1"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "4",
@@ -125,8 +125,8 @@
         "D": "①③④"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "5",
@@ -139,8 +139,8 @@
         "D": "5项"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "6",
@@ -153,8 +153,8 @@
         "D": "5项"
       },
       "true_answer": "D",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "7",
@@ -167,8 +167,8 @@
         "D": "①②③"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "8",
@@ -195,8 +195,8 @@
         "D": "法律草案的说明应当包括起草过程中对重大分歧意见的协调处理情况"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "10",
@@ -209,8 +209,8 @@
         "D": "某审计机关为完成紧急工作任务，聘请某会计师事务所人员共同参与审计工作"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "11",
@@ -237,8 +237,8 @@
         "D": "预备役军官分为预备役指挥管理军官和预备役专业技术军官"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "13",
@@ -265,8 +265,8 @@
         "D": "在广西展区，观众在“今日开山岛”模型前聆听王继才、王仕花夫妇的守岛事迹"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "15",
@@ -279,8 +279,8 @@
         "D": "我国目前最大的金矿在云南省内"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "16",
@@ -293,8 +293,8 @@
         "D": "黄山不仅有“五绝”，还以历史遗存、书画、文学、传说、名人“五胜”著称于世"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "17",
@@ -307,8 +307,8 @@
         "D": "“清代戏曲双璧”是指洪昇的《长生殿》和孔尚任的《桃花扇》"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "18",
@@ -321,8 +321,8 @@
         "D": "日照时间过长会导致短日照花卉死亡"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "19",
@@ -349,8 +349,8 @@
         "D": "洋葱独特的强烈刺激性气味来源于有机硫化合物"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "21",
@@ -363,8 +363,8 @@
         "D": "当机立断"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "22",
@@ -377,8 +377,8 @@
         "D": "各有千秋"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "23",
@@ -475,7 +475,7 @@
         "D": "精确 开源节流"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -531,8 +531,8 @@
         "D": "基础 高妙 水火不容"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "34",
@@ -559,8 +559,8 @@
         "D": "任重道远 实事求是 缓解"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "36",
@@ -657,8 +657,8 @@
         "D": "硫化物在平流层中发生的化学反应"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "43",
@@ -713,8 +713,8 @@
         "D": "③④①⑥②⑤"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "47",
@@ -769,8 +769,8 @@
         "D": "科举制度创建对选官制度变革的影响"
       },
       "true_answer": "D",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "61",
@@ -797,7 +797,7 @@
         "D": "多12辆"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -839,7 +839,7 @@
         "D": "5"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -853,8 +853,8 @@
         "D": "570"
       },
       "true_answer": "A",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "67",
@@ -867,7 +867,7 @@
         "D": "45"
       },
       "true_answer": "A",
-      "pred_answer": "B",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -881,7 +881,7 @@
         "D": "170"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -895,7 +895,7 @@
         "D": "16"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -937,7 +937,7 @@
         "D": "30%"
       },
       "true_answer": "B",
-      "pred_answer": "A",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -951,8 +951,8 @@
         "D": "12月28日"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "86",
@@ -965,8 +965,8 @@
         "D": "患II型糖尿病的老李，平日生活格外谨慎，含糖量高的食物一概不碰，每天按时服药，定期监测血糖水平"
       },
       "true_answer": "D",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "87",
@@ -1007,8 +1007,8 @@
         "D": "记录零序电流值并用于查找故障点的故障录波装置，属于电力一次设备"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "90",
@@ -1049,8 +1049,8 @@
         "D": "音乐家是人，所以，无天赋的音乐家是无天赋的人"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "93",
@@ -1063,7 +1063,7 @@
         "D": "近年来，一些大都市的公园每周都会举办“相亲角”活动，中老年父母聚在一起替儿女相亲"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1077,8 +1077,8 @@
         "D": "甲作案后接受警方讯问时，拿出案发当日的火车票谎称自己当时正在火车上"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "96",
@@ -1175,8 +1175,8 @@
         "D": "规律：普适性：定理"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "103",
@@ -1245,8 +1245,8 @@
         "D": "为扩大宣传，H地区许多冰雪项目会推出优惠组合套餐，吸引人们多次消费"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "108",
@@ -1273,8 +1273,8 @@
         "D": "李2月在苏州调研"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "110",
@@ -1287,8 +1287,8 @@
         "D": "形成黑色素需要耗费能量，而墨西哥丽脂鲤长期处在能量匮乏的环境中，减少酪氨酸的合成有助于自身能量的储备"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "111",
@@ -1301,8 +1301,8 @@
         "D": "相比白天，夜间的光照更容易通过视网膜神经节细胞激活伏隔核，该脑区与负性情绪的产生有关"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "112",
@@ -1315,8 +1315,8 @@
         "D": "与蕨类植物相比，开花植物更擅长去除多余的基因，在少量复制后缩减染色体大小"
       },
       "true_answer": "C",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "113",
@@ -1357,8 +1357,8 @@
         "D": "乙和丙通过"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     }
   ]
 }
