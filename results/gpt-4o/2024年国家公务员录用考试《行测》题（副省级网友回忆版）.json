@@ -45,19 +45,19 @@
     134,
     135
   ],
-  "overall_accuracy": 0.7282608695652174,
+  "overall_accuracy": 0.6086956521739131,
   "total_processed_questions": 92,
-  "correct_answers": 67,
+  "correct_answers": 56,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
-      "accuracy": 0.8,
-      "correct": 16,
+      "accuracy": 0.65,
+      "correct": 13,
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.8333333333333334,
-      "correct": 25,
+      "accuracy": 0.8,
+      "correct": 24,
       "total": 30
     },
     "数量关系": {
@@ -66,8 +66,8 @@
       "total": 13
     },
     "判断推理": {
-      "accuracy": 0.8275862068965517,
-      "correct": 24,
+      "accuracy": 0.5862068965517241,
+      "correct": 17,
       "total": 29
     }
   },
@@ -83,8 +83,8 @@
         "D": "2"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "2",
@@ -111,8 +111,8 @@
         "D": "1"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "4",
@@ -223,8 +223,8 @@
         "D": "丁因协助反间谍工作导致财产损失，根据国家有关规定，可获得补偿"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "12",
@@ -265,8 +265,8 @@
         "D": "在广西展区，观众在“今日开山岛”模型前聆听王继才、王仕花夫妇的守岛事迹"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "15",
@@ -335,8 +335,8 @@
         "D": "炫丽色彩和活泼的“洋葱顶”造型使它看上去像一座童话城堡——西班牙"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "20",
@@ -419,7 +419,7 @@
         "D": "偏离 降低"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -461,8 +461,8 @@
         "D": "轰轰烈烈 引人注目"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "29",
@@ -531,8 +531,8 @@
         "D": "基础 高妙 水火不容"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "34",
@@ -699,8 +699,8 @@
         "D": "适宜在地中海地区生存繁衍"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "46",
@@ -825,7 +825,7 @@
         "D": "多108万元"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -895,7 +895,7 @@
         "D": "16"
       },
       "true_answer": "A",
-      "pred_answer": "C",
+      "pred_answer": "D",
       "is_correct": false
     },
     {
@@ -937,7 +937,7 @@
         "D": "30%"
       },
       "true_answer": "B",
-      "pred_answer": "D",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -1007,8 +1007,8 @@
         "D": "记录零序电流值并用于查找故障点的故障录波装置，属于电力一次设备"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "90",
@@ -1021,8 +1021,8 @@
         "D": "小丽逛街的时候本来只想买一条裤子，后来发现需要搭配一件合适的上衣和配套的手提包，所以买了全套。这属于多变型消费行为"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "91",
@@ -1035,8 +1035,8 @@
         "D": "某区域森林蓄积量为14亿立方米，则该区域立木蓄积量一定少于14亿立方米"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "92",
@@ -1105,8 +1105,8 @@
         "D": "葛根茶：芡实粉"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "98",
@@ -1133,8 +1133,8 @@
         "D": "麻雀虽小：五脏俱全"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "100",
@@ -1147,8 +1147,8 @@
         "D": "木柱：石柱：砖柱"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "101",
@@ -1175,8 +1175,8 @@
         "D": "规律：普适性：定理"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "103",
@@ -1189,8 +1189,8 @@
         "D": "交通事故：保险赔付：救治伤员"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "104",
@@ -1203,7 +1203,7 @@
         "D": "羊皮纸；竹筐"
       },
       "true_answer": "C",
-      "pred_answer": "B",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -1217,7 +1217,7 @@
         "D": "出头鸟；先行者"
       },
       "true_answer": "A",
-      "pred_answer": "C",
+      "pred_answer": "D",
       "is_correct": false
     },
     {
@@ -1273,8 +1273,8 @@
         "D": "李2月在苏州调研"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "110",

@@ -45,29 +45,29 @@
     134,
     135
   ],
-  "overall_accuracy": 0.6956521739130435,
+  "overall_accuracy": 0.6413043478260869,
   "total_processed_questions": 92,
-  "correct_answers": 64,
+  "correct_answers": 59,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
-      "accuracy": 0.85,
-      "correct": 17,
+      "accuracy": 0.8,
+      "correct": 16,
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.6333333333333333,
-      "correct": 19,
+      "accuracy": 0.5666666666666667,
+      "correct": 17,
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.35714285714285715,
-      "correct": 5,
+      "accuracy": 0.42857142857142855,
+      "correct": 6,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.8214285714285714,
-      "correct": 23,
+      "accuracy": 0.7142857142857143,
+      "correct": 20,
       "total": 28
     }
   },
@@ -97,7 +97,7 @@
         "D": "5项"
       },
       "true_answer": "A",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -237,8 +237,8 @@
         "D": "“乌江天险”正是楚汉战争时项羽兵败自刎的地方"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "13",
@@ -321,8 +321,8 @@
         "D": "谷雨前后江浙地区可能会出现“一把青秧趁手青，轻烟漠漠雨冥冥”的现象"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "19",
@@ -335,8 +335,8 @@
         "D": "可以通过虫子取食痕迹判断蘑菇是否有毒"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "20",
@@ -391,8 +391,8 @@
         "D": "迎难而上 惜墨如金"
       },
       "true_answer": "B",
-      "pred_answer": "A",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "24",
@@ -447,8 +447,8 @@
         "D": "相符 漏洞"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "28",
@@ -461,8 +461,8 @@
         "D": "浑水摸鱼 浅尝辄止"
       },
       "true_answer": "D",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "29",
@@ -489,8 +489,8 @@
         "D": "通用性 防止"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "31",
@@ -517,8 +517,8 @@
         "D": "不朽 统一 褪色"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "33",
@@ -615,8 +615,8 @@
         "D": "打破形式壁垒是艺术创新的重要手段"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "40",
@@ -699,8 +699,8 @@
         "D": "借助事件传播，创造全新概念"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "46",
@@ -741,8 +741,8 @@
         "D": "消费需求疲软阻碍了全国统一大市场的形成"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "49",
@@ -783,8 +783,8 @@
         "D": "720"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "62",
@@ -839,7 +839,7 @@
         "D": "6"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -909,8 +909,8 @@
         "D": ""
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "请提供选项内容，以便我能帮助您选择正确的答案。",
+      "is_correct": false
     },
     {
       "id": "72",
@@ -923,8 +923,8 @@
         "D": "12：15"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "73",
@@ -951,7 +951,7 @@
         "D": "600"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -965,7 +965,7 @@
         "D": "不到0.6x"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -1007,8 +1007,8 @@
         "D": "与老司机相比，坐新手司机开的车时，后排座上的乘客主动系安全带的更多"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "89",
@@ -1021,8 +1021,8 @@
         "D": "仅②③④"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "90",
@@ -1035,8 +1035,8 @@
         "D": "谁是高考状元？这个一年一度的热门话题，今年却在XX省消失了——③"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "91",
@@ -1119,8 +1119,8 @@
         "D": "风险防范：消防演练"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "99",
@@ -1189,8 +1189,8 @@
         "D": "幽静：寂静：安静"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "104",
@@ -1217,7 +1217,7 @@
         "D": "口若悬河；矜功伐善"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -1357,7 +1357,7 @@
         "D": "白未参加跳台滑雪"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     }
   ]

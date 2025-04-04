@@ -44,34 +44,34 @@
     134,
     135
   ],
-  "overall_accuracy": 0.7849462365591398,
+  "overall_accuracy": 0.6881720430107527,
   "total_processed_questions": 93,
-  "correct_answers": 73,
+  "correct_answers": 64,
   "skipped_questions": 42,
   "type_accuracies": {
     "政治理论": {
-      "accuracy": 0.9,
-      "correct": 18,
+      "accuracy": 0.8,
+      "correct": 16,
       "total": 20
     },
     "常识判断": {
-      "accuracy": 0.8666666666666667,
-      "correct": 13,
+      "accuracy": 0.8,
+      "correct": 12,
       "total": 15
     },
     "表达理解": {
-      "accuracy": 0.9,
-      "correct": 18,
+      "accuracy": 0.55,
+      "correct": 11,
       "total": 20
     },
     "数量关系": {
-      "accuracy": 0.42857142857142855,
-      "correct": 6,
+      "accuracy": 0.2857142857142857,
+      "correct": 4,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.75,
-      "correct": 18,
+      "accuracy": 0.875,
+      "correct": 21,
       "total": 24
     }
   },
@@ -101,8 +101,8 @@
         "D": "矛盾的普遍性、客观性决定了事物的不同性质，是认清事物本质和发展规律的基础"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "3",
@@ -213,8 +213,8 @@
         "D": "完善税收、社会保障、转移支付等第三次分配调节机制"
       },
       "true_answer": "D",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "11",
@@ -227,8 +227,8 @@
         "D": "5项"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "12",
@@ -241,8 +241,8 @@
         "D": "扩大对最不发达国家单边开放"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "13",
@@ -311,8 +311,8 @@
         "D": "完善产权制度"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "18",
@@ -353,8 +353,8 @@
         "D": "要坚持推进新型城镇化和乡村全面振兴有机结合，在发展中保障和改善民生"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "21",
@@ -563,8 +563,8 @@
         "D": "举重运动中判定试举成功需要三名裁判均亮白灯"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "36",
@@ -577,8 +577,8 @@
         "D": "一厢情愿"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "37",
@@ -605,8 +605,8 @@
         "D": "见风使舵 自作主张"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "39",
@@ -661,8 +661,8 @@
         "D": "画地为牢 大展拳脚"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "43",
@@ -675,8 +675,8 @@
         "D": "安全性 弥散 季节"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "44",
@@ -689,8 +689,8 @@
         "D": "陈词滥调 冠冕堂皇 言简意赅"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "45",
@@ -745,8 +745,8 @@
         "D": "理论宣传应该综合运用国内外资源"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "49",
@@ -801,7 +801,7 @@
         "D": "⑤③②⑥④①"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -843,8 +843,8 @@
         "D": "降低净息差有助于促进企业和银行的共赢"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "66",
@@ -871,7 +871,7 @@
         "D": "60"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -885,8 +885,8 @@
         "D": "2分30秒"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "69",
@@ -899,8 +899,8 @@
         "D": "20"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "70",
@@ -955,8 +955,8 @@
         "D": "30"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "74",
@@ -969,8 +969,8 @@
         "D": ""
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "75",
@@ -983,7 +983,7 @@
         "D": "星期六"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -1011,7 +1011,7 @@
         "D": "24"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1025,7 +1025,7 @@
         "D": ""
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1039,7 +1039,7 @@
         "D": "23.5"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "C",
       "is_correct": false
     },
     {
@@ -1053,8 +1053,8 @@
         "D": "晓菲在股票大跌之后，懊恼地说：“我早就觉察到那些信号了，觉得走势不太好，怎么就没有早卖出啊。”"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "92",
@@ -1193,7 +1193,7 @@
         "D": "避其锐气：击其惰归"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -1207,8 +1207,8 @@
         "D": "挥发性：保温性：石棉纤维"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "104",
@@ -1221,8 +1221,8 @@
         "D": "游乐设施：球幕电影：娱乐"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "105",
@@ -1305,8 +1305,8 @@
         "D": "乙坐在南面"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "111",
@@ -1333,8 +1333,8 @@
         "D": "将0读成“洞”时，更容易提高声音，同时也使声音更加干脆清晰，确保信息的准确性"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "113",
