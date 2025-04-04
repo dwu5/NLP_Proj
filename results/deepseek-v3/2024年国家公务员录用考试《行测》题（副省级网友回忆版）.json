@@ -45,9 +45,9 @@
     134,
     135
   ],
-  "overall_accuracy": 0.8043478260869565,
+  "overall_accuracy": 0.75,
   "total_processed_questions": 92,
-  "correct_answers": 74,
+  "correct_answers": 69,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
@@ -56,18 +56,18 @@
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.9333333333333333,
-      "correct": 28,
+      "accuracy": 0.9,
+      "correct": 27,
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.46153846153846156,
-      "correct": 6,
+      "accuracy": 0.23076923076923078,
+      "correct": 3,
       "total": 13
     },
     "判断推理": {
-      "accuracy": 0.7586206896551724,
-      "correct": 22,
+      "accuracy": 0.7241379310344828,
+      "correct": 21,
       "total": 29
     }
   },
@@ -475,8 +475,8 @@
         "D": "精确 开源节流"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "30",
@@ -783,7 +783,7 @@
         "D": "1"
       },
       "true_answer": "C",
-      "pred_answer": "B",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -811,7 +811,7 @@
         "D": "3300"
       },
       "true_answer": "C",
-      "pred_answer": "AD",
+      "pred_answer": "我们需要解决以下问题：",
       "is_correct": false
     },
     {
@@ -825,7 +825,7 @@
         "D": "多108万元"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "B",
       "is_correct": false
     },
     {
@@ -839,7 +839,7 @@
         "D": "5"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "设甲生产线第一天的",
       "is_correct": false
     },
     {
@@ -867,8 +867,8 @@
         "D": "45"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "设乙的销售量为",
+      "is_correct": false
     },
     {
       "id": "68",
@@ -895,8 +895,8 @@
         "D": "16"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "我们需要计算小王在判断题",
+      "is_correct": false
     },
     {
       "id": "72",
@@ -937,8 +937,8 @@
         "D": "30%"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "75",
@@ -1049,8 +1049,8 @@
         "D": "音乐家是人，所以，无天赋的音乐家是无天赋的人"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "93",
@@ -1133,8 +1133,8 @@
         "D": "麻雀虽小：五脏俱全"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "100",
@@ -1161,8 +1161,8 @@
         "D": "老鼠：黄鼬：玉米"
       },
       "true_answer": "D",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "D",
+      "is_correct": true
     },
     {
       "id": "102",
@@ -1175,8 +1175,8 @@
         "D": "规律：普适性：定理"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "103",
@@ -1189,8 +1189,8 @@
         "D": "交通事故：保险赔付：救治伤员"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "104",
@@ -1357,7 +1357,7 @@
         "D": "乙和丙通过"
       },
       "true_answer": "A",
-      "pred_answer": "C",
+      "pred_answer": "要解答这个问题，我们可以",
       "is_correct": false
     }
   ]

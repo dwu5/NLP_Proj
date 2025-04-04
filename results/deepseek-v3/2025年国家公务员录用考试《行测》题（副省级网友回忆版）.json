@@ -44,9 +44,9 @@
     134,
     135
   ],
-  "overall_accuracy": 0.7419354838709677,
+  "overall_accuracy": 0.6881720430107527,
   "total_processed_questions": 93,
-  "correct_answers": 69,
+  "correct_answers": 64,
   "skipped_questions": 42,
   "type_accuracies": {
     "政治理论": {
@@ -65,13 +65,13 @@
       "total": 20
     },
     "数量关系": {
-      "accuracy": 0.2857142857142857,
-      "correct": 4,
+      "accuracy": 0.07142857142857142,
+      "correct": 1,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.6666666666666666,
-      "correct": 16,
+      "accuracy": 0.5833333333333334,
+      "correct": 14,
       "total": 24
     }
   },
@@ -857,8 +857,8 @@
         "D": "1.5"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "设每辆大车的",
+      "is_correct": false
     },
     {
       "id": "67",
@@ -871,7 +871,7 @@
         "D": "60"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "设1月的节电",
       "is_correct": false
     },
     {
@@ -899,7 +899,7 @@
         "D": "20"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "设研发小组有 \\(",
       "is_correct": false
     },
     {
@@ -913,7 +913,7 @@
         "D": "9"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -927,7 +927,7 @@
         "D": "9：00"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -955,7 +955,7 @@
         "D": "30"
       },
       "true_answer": "C",
-      "pred_answer": "A",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -983,8 +983,8 @@
         "D": "星期六"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "### 问题重述",
+      "is_correct": false
     },
     {
       "id": "76",
@@ -997,8 +997,8 @@
         "D": "75%"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "设商品的定价为 \\(",
+      "is_correct": false
     },
     {
       "id": "77",
@@ -1039,7 +1039,7 @@
         "D": "23.5"
       },
       "true_answer": "D",
-      "pred_answer": "AC",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -1151,8 +1151,8 @@
         "D": "春汛就是桃汛"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "100",
@@ -1305,7 +1305,7 @@
         "D": "乙坐在南面"
       },
       "true_answer": "A",
-      "pred_answer": "B",
+      "pred_answer": "### 题目重述",
       "is_correct": false
     },
     {
@@ -1319,8 +1319,8 @@
         "D": "一直以来，H国电子企业生产的产品以其卓越的技术和质量优势在国际市场上极具竞争力，近年来这种竞争优势在逐渐减弱"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "112",

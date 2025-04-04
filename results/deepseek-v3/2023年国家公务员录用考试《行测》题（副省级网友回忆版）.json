@@ -45,9 +45,9 @@
     134,
     135
   ],
-  "overall_accuracy": 0.717391304347826,
+  "overall_accuracy": 0.7282608695652174,
   "total_processed_questions": 92,
-  "correct_answers": 66,
+  "correct_answers": 67,
   "skipped_questions": 43,
   "type_accuracies": {
     "常识判断": {
@@ -61,13 +61,13 @@
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.2857142857142857,
-      "correct": 4,
+      "accuracy": 0.21428571428571427,
+      "correct": 3,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.75,
-      "correct": 21,
+      "accuracy": 0.8214285714285714,
+      "correct": 23,
       "total": 28
     }
   },
@@ -405,7 +405,7 @@
         "D": "不谋而合 复杂"
       },
       "true_answer": "C",
-      "pred_answer": "D",
+      "pred_answer": "A",
       "is_correct": false
     },
     {
@@ -517,8 +517,8 @@
         "D": "不朽 统一 褪色"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "D",
+      "is_correct": false
     },
     {
       "id": "33",
@@ -615,8 +615,8 @@
         "D": "打破形式壁垒是艺术创新的重要手段"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "40",
@@ -811,8 +811,8 @@
         "D": "4"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "65",
@@ -839,7 +839,7 @@
         "D": "6"
       },
       "true_answer": "D",
-      "pred_answer": "C",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -881,8 +881,8 @@
         "D": "55"
       },
       "true_answer": "C",
-      "pred_answer": "C",
-      "is_correct": true
+      "pred_answer": "### 问题重述",
+      "is_correct": false
     },
     {
       "id": "70",
@@ -895,7 +895,7 @@
         "D": "27"
       },
       "true_answer": "A",
-      "pred_answer": "D",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -923,8 +923,8 @@
         "D": "12：15"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "73",
@@ -937,7 +937,7 @@
         "D": "75%"
       },
       "true_answer": "B",
-      "pred_answer": "A",
+      "pred_answer": "### 问题重述",
       "is_correct": false
     },
     {
@@ -951,7 +951,7 @@
         "D": "600"
       },
       "true_answer": "D",
-      "pred_answer": "A",
+      "pred_answer": "我们需要计算2020年",
       "is_correct": false
     },
     {
@@ -1203,8 +1203,8 @@
         "D": "交通警察；外交领事"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "105",
@@ -1245,8 +1245,8 @@
         "D": "R行星自转速度快，星球上的物体受到离心作用强，其表面尘埃与石块会脱离引力束缚，剥落散逸"
       },
       "true_answer": "A",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "108",
@@ -1357,7 +1357,7 @@
         "D": "白未参加跳台滑雪"
       },
       "true_answer": "D",
-      "pred_answer": "B",
+      "pred_answer": "### 题目重述",
       "is_correct": false
     }
   ]
