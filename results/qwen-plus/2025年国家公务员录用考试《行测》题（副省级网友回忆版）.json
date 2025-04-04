@@ -44,14 +44,14 @@
     134,
     135
   ],
-  "overall_accuracy": 0.8279569892473119,
+  "overall_accuracy": 0.8387096774193549,
   "total_processed_questions": 93,
-  "correct_answers": 77,
+  "correct_answers": 78,
   "skipped_questions": 42,
   "type_accuracies": {
     "政治理论": {
-      "accuracy": 0.95,
-      "correct": 19,
+      "accuracy": 1.0,
+      "correct": 20,
       "total": 20
     },
     "常识判断": {
@@ -65,13 +65,13 @@
       "total": 20
     },
     "数量关系": {
-      "accuracy": 0.2857142857142857,
-      "correct": 4,
+      "accuracy": 0.21428571428571427,
+      "correct": 3,
       "total": 14
     },
     "判断推理": {
-      "accuracy": 0.8333333333333334,
-      "correct": 20,
+      "accuracy": 0.875,
+      "correct": 21,
       "total": 24
     }
   },
@@ -101,8 +101,8 @@
         "D": "矛盾的普遍性、客观性决定了事物的不同性质，是认清事物本质和发展规律的基础"
       },
       "true_answer": "C",
-      "pred_answer": "D",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "3",
@@ -913,8 +913,8 @@
         "D": "9"
       },
       "true_answer": "D",
-      "pred_answer": "D",
-      "is_correct": true
+      "pred_answer": "A",
+      "is_correct": false
     },
     {
       "id": "71",
@@ -1207,8 +1207,8 @@
         "D": "挥发性：保温性：石棉纤维"
       },
       "true_answer": "B",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "B",
+      "is_correct": true
     },
     {
       "id": "104",

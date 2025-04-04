@@ -56,18 +56,18 @@
       "total": 20
     },
     "表达理解": {
-      "accuracy": 0.8666666666666667,
-      "correct": 26,
+      "accuracy": 0.9,
+      "correct": 27,
       "total": 30
     },
     "数量关系": {
-      "accuracy": 0.3076923076923077,
-      "correct": 4,
+      "accuracy": 0.38461538461538464,
+      "correct": 5,
       "total": 13
     },
     "判断推理": {
-      "accuracy": 0.8620689655172413,
-      "correct": 25,
+      "accuracy": 0.7931034482758621,
+      "correct": 23,
       "total": 29
     }
   },
@@ -559,8 +559,8 @@
         "D": "任重道远 实事求是 缓解"
       },
       "true_answer": "C",
-      "pred_answer": "B",
-      "is_correct": false
+      "pred_answer": "C",
+      "is_correct": true
     },
     {
       "id": "36",
@@ -867,8 +867,8 @@
         "D": "45"
       },
       "true_answer": "A",
-      "pred_answer": "C",
-      "is_correct": false
+      "pred_answer": "A",
+      "is_correct": true
     },
     {
       "id": "68",
@@ -1119,8 +1119,8 @@
         "D": "炉火纯青：金属炼制"
       },
       "true_answer": "A",
-      "pred_answer": "A",
-      "is_correct": true
+      "pred_answer": "B",
+      "is_correct": false
     },
     {
       "id": "99",
@@ -1147,8 +1147,8 @@
         "D": "木柱：石柱：砖柱"
       },
       "true_answer": "B",
-      "pred_answer": "B",
-      "is_correct": true
+      "pred_answer": "C",
+      "is_correct": false
     },
     {
       "id": "101",
